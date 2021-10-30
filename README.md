@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="THE CREATOR OF ALL Logo">
+  <img src="https://telegra.ph/file/17144c18ce19009cd8fd5.jpg" alt="THE CREATOR OF ALL Logo">
 </p>
 <h1 align="center">
   <b>THE CREATOR OF ALL</b>
